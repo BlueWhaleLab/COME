@@ -1,0 +1,8 @@
+huggingface-hub==0.16.4
+numpy==1.23.2
+timm==0.9.12
+torch==1.13.1
+torchvision==0.14.1
+pycm==4.0
+foolbox==3.3.4
+scikit-learn==1.0.2
