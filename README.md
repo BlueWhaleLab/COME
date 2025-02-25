@@ -4,7 +4,7 @@ This is the official implementation of [COME: Test-time Adaption by Conservative
 
 ## Installation Requirements
 
-To get started with this repository, you'll need to follow these installation steps.
+To get started with this repository, you need to follow these installation.
 
 ```
 pip install -r requirements.txt
