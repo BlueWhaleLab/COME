@@ -1,5 +1,7 @@
 # COME: Test-time Adaption by Conservatively Minimizing Entropy (ICLR'25)
 
+![visitor count](https://komarev.com/ghpvc/?username=BlueWhaleLab&repo=COME)
+
 This is the official implementation of [COME: Test-time Adaption by Conservatively Minimizing Entropy](https://arxiv.org/abs/2410.10894) on ICLR 2025. We propose Conservatively Minimizating Entropy (COME) as a simple drop-in refinement of Entropy Minimization for test-time adaption.
 
 ## Installation Requirements
